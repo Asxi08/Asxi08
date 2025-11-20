@@ -1,6 +1,6 @@
 
 # Hi there, I'm Ashik Mohamed J 👋 
-<a href="https://github.com/Asxi08/Asxi08/raw/main/Ashik_Mohamed_J_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/View_Resume-100000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=99154e" alt="View Resume"/></a>
+<a href= https://github.com/Asxi08/resume/blob/main/Ashik%20Mohamed%20J%20Resume%20(2).pdf alt="View Resume"/></a>
 
 - 📄 **Resume**: Click the button above ↑
 
