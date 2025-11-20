@@ -98,7 +98,4 @@ Real-time fall detection with email alerts
 ---
 ```
 
-Your resume button is now live and looks professional — recruiters love this!  
-Just make sure the PDF file is uploaded to the root of your profile repo with the exact name `Ashik_Mohamed_J_Resume.pdf` (or update the link accordingly).
 
-Let me know if you want a different button color or style!
