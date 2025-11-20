@@ -1,6 +1,4 @@
-Here’s a professional, clean, and visually appealing GitHub README.md file tailored for your profile repository (https://github.com/Asxi08/Asxi08) based exactly on your resume:
 
-```markdown
 # Hi there, I'm Ashik Mohamed J 👋
 
 **`B.Tech CSE Student | Data Science & Deep Learning Enthusiast | Building Intelligent Systems`**
