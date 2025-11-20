@@ -2,6 +2,8 @@
 # Hi there, I'm Ashik Mohamed J 👋 
 <a href="https://github.com/Asxi08/Asxi08/raw/main/Ashik_Mohamed_J_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/View_Resume-100000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=99154e" alt="View Resume"/></a>
 
+- 📄 **Resume**: Click the button above ↑
+
 **`B.Tech CSE Student | Data Science & Deep Learning Enthusiast | Building Intelligent Systems`**
 
 Final-year Computer Science student passionate about **Machine Learning, Deep Learning, and Full-Stack Development**. Currently exploring real-world applications of AI through internships and personal projects.
@@ -14,8 +16,8 @@ Final-year Computer Science student passionate about **Machine Learning, Deep Le
 - 🔭 Worked as **Data Science Intern** at Bharat Intern & **Deep Learning Intern** at Polenza Tech Solutions  
 - 💡 Building predictive models and computer vision applications  
 - 📫 Reach me: [nafeelaashik@gmail.com](mailto:nafeelaashik@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/ashik-mohamed-j](https://www.linkedin.com/in/ashik-mohamed-j)  
-- 📄 **Resume**: Click the button above ↑
+- 🔗 LinkedIn: www.linkedin.com/in/ashik-md-4656a8379  
+
 
 ---
 
